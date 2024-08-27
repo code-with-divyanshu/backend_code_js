@@ -4,4 +4,11 @@ This is a backend Code learn from Chai or backend Series from youtube by Hitesh 
 
 The Model for DataModeling is here
 
-    https://app.eraser.io/workspace/votYt0upU3sA1nTIlEbT?origin=share
+https://app.eraser.io/workspace/votYt0upU3sA1nTIlEbT?origin=share
+
+Use Stacks:
+
+-Express
+-MongoDB
+
+-
