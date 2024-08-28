@@ -8,7 +8,8 @@ https://app.eraser.io/workspace/votYt0upU3sA1nTIlEbT?origin=share
 
 Use Stacks:
 
--Express
--MongoDB
+- Express
 
--
+- MongoDB
+
+- dotenv
